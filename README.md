@@ -121,11 +121,11 @@ flowchart LR
 
 ## 下载与体验
 
-当前工具为私有分发版本。如需体验、合作或定制，请联系：
+当前工具为私有分发版本。如需体验、合作或定制，请通过下方微信添加联系。
 
-- 邮箱：your-email@example.com
-- 微信：your-wechat-id
-- 网站：https://your-site.com
+**山海观雾 / 挪威**
+
+![微信联系方式](./docs/images/contact-wechat.jpg)
 
 ## 常见问题
 
