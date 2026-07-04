@@ -1,32 +1,38 @@
-# 不上传源码、程序包、构建产物和大文件
+# Build and runtime artifacts
 *.exe
 *.dll
 *.pyd
 *.zip
 *.7z
 *.rar
-*.mp4
-*.mov
-*.mkv
-*.avi
-*.wmv
-*.flv
-*.py
-*.spec
-bin/
+*.msi
+*.iss
 dist/
 build/
-__pycache__/
-*.log
-*.tmp
-*.progress.json
-*.report.json
+release/
+installer/
+VideoToolStrict_Protected/
 
-# 允许上传文档和截图
-!README.md
-!DISCLAIMER.md
-!docs/
-!docs/*.png
-!docs/*.jpg
-!docs/*.jpeg
-!docs/*.webp
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*secret*
+*token*
+*apikey*
+*api_key*
+
+# Python / tooling
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
