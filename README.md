@@ -145,9 +145,7 @@ AI 能力采用手动配置与状态检测方式呈现，公开展示版本已�
 
 当前仓库仅作为产品展示、版本更新和联系入口使用，不提供源码、不提供核心实现、不公开内部参数。
 
-官网：[https://payxpro.co](https://payxpro.co)
-
-![联系二维码](./docs/images/contact-wechat.jpg)
+官网：[https://payxpro.co](https://payxpro.co)  
 
 ## ⚠️ 免责声明 (Disclaimer)
 
